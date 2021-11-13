@@ -1,0 +1,44 @@
+--------------------------------------------------
+### Training Algorithm TRPO, seed: 10 ###
+--------------------------------------------------
+step: 9404, score: -172.08
+step: 19053, score: -128.58
+step: 30222, score: -75.81
+step: 51976, score: -8.93
+step: 94985, score: 74.24
+step: 141011, score: 121.29
+step: 187231, score: 117.66
+step: 230269, score: 128.70
+step: 274841, score: 104.95
+step: 318653, score: 128.36
+step: 360147, score: 104.30
+step: 406261, score: 131.39
+step: 448666, score: 121.53
+step: 490015, score: 114.78
+step: 528578, score: 104.33
+step: 566360, score: 114.34
+step: 605921, score: 108.69
+step: 642930, score: 111.75
+step: 679732, score: 101.55
+step: 715604, score: 104.11
+step: 754936, score: 117.15
+step: 796351, score: 122.33
+step: 834544, score: 128.41
+step: 878071, score: 149.13
+step: 921012, score: 153.57
+step: 958875, score: 120.50
+step: 992830, score: 107.26
+step: 1023373, score: 93.37
+
+--------------------------------------------------
+### Testing Algorithm TRPO, seed: 10 ###
+--------------------------------------------------
+episode 0, return: 156.59
+episode 1, return: 85.33
+episode 2, return: 116.34
+episode 3, return: 144.00
+episode 4, return: 112.43
+==================================================
+# episodes: 5
+mean: 122.94, std: 25.08
+median: 116.34, min: 85.33, max: 156.59
